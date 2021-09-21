@@ -45,8 +45,7 @@ I am still working on the collection view. I have been trying to adjust this vie
 
 
 
-
-<img src="https://i.ibb.co/NjD9q3S/flixp1.gif" alt="flixp1" border="0">
+<iframe src="https://giphy.com/embed/Fwvwn35qPWMt0pmoIs" width="229" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/Fwvwn35qPWMt0pmoIs">via GIPHY</a></p>
 
 ### Notes
 Overall, all video walkthoughs were very helpful. I did, however, have a difficult time uploading the gif at the end of the project. 
